@@ -13,7 +13,7 @@ This is my personal website. 👇
                           This is currently a WIP website
    WIP meaning <em>Work In Progress</em>. Please visit the site often when i release updates!
       </p>
-      <p align="center"><a href="https://discord.gg/4m8sZF78cY">Join my discord server for updates!</a><br><br><br></p>
+      <p align="center"><a href="https://discord.gg/zaJayKz6">Join my discord server for updates!</a><br><br><br></p>
 
 <link rel="stylesheet" href="fancy.css">
 
