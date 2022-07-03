@@ -28,7 +28,7 @@
 
 
 
-<video src="https://media.giphy.com/media/kLLvH1EOtCwQ8/giphy-downsized-large.gif" controls>
+<video src="https://media.giphy.com/media/kLLvH1EOtCwQ8/giphy-downsized-large.gif" >
     oops, goofy ah monke didn't load, or your in your grammas basemeant wifi, either way, SUCKS TO BE YOU!!!!!!
   </video>
   
