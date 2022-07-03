@@ -22,7 +22,34 @@
 
 
 
-<p>  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> </p>
+<p>  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> </p>
 
-<p>hi</p>
+<p>hi<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+
+
+
+<video src="https://media.giphy.com/media/kLLvH1EOtCwQ8/giphy-downsized-large.gif" controls>
+    oops, goofy ah monke didn't load, or your in your grammas basemeant wifi, either way, SUCKS TO BE YOU!!!!!!
+  </video>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </html>
