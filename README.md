@@ -1,9 +1,7 @@
-# nicolovescode.github.io
-This is my personal website. 👇
 <!DOCTYPE html>
 <html>
 <head>
-    
+    <title>Welcome to my website!</title>
 </head>
 <body>
     <h1>Thanks!</h1>
@@ -13,7 +11,7 @@ This is my personal website. 👇
                           This is currently a WIP website
    WIP meaning <em>Work In Progress</em>. Please visit the site often when i release updates!
       </p>
-      <p align="center"><a href="https://discord.gg/MDr2tK8YHN">Join my discord server for updates!</a><br><br><br></p>
+      <p align="center"><a href="https://discord.gg/4m8sZF78cY">Join my discord server for updates!</a><br><br><br></p>
 
 <link rel="stylesheet" href="fancy.css">
 
@@ -21,4 +19,10 @@ This is my personal website. 👇
 </body>
 
 
+
+
+
+<p>  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> </p>
+
+<p>hi</p>
 </html>
